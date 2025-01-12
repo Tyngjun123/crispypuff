@@ -172,7 +172,7 @@ const DeliveryDetails: React.FC<DeliveryDetailsProps> = ({
           </div>
         </>
       )}
-      <p className="text-sm text-gray-600">备注: 士拉央 & 甲洞免费配送，以外的地区会根据Lalamove收取载送费用哦~</p>
+      <p className="text-sm text-gray-600">备注: 士拉央 & 甲洞免费配送，地区以外会根据Lalamove收取载送费用哦~</p>
     </div>
   )
 }

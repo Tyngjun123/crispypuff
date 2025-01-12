@@ -50,7 +50,7 @@ export default function OrderForm() {
       if (deliveryAddress) {
         summary += `🏠 配送地址:\n${deliveryAddress}\n`
       }
-      summary += `🚚 备注: 士拉央 & 甲洞免费配送，以外的地区会根据Lalamove收取载送费用哦~`
+      summary += `🚚 备注: 士拉央 & 甲洞免费配送，地区以外会根据Lalamove收取载送费用哦~`
     }
     return summary
   }
